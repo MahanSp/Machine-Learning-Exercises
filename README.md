@@ -1,29 +1,32 @@
-# Machine-Learning-Exercises
+# Machine Learning Exercises
 
-This repository contains a series of interactive Jupyter Notebooks that document my journey through learning and applying fundamental machine learning algorithms. Each notebook focuses on a different concept or technique, enabling hands-on practice, insight exploration, and iterative improvement.
+This repository contains a collection of exercises I completed while learning the fundamentals of machine learning.  
+The goal of this repo is not to present polished projects, but to document my practice and progress as I worked through different concepts, algorithms, and problem-solving approaches.
 
-##  Notebooks Overview
+## 📘 What’s Inside
 
-| Notebook Name                                | Focus                          | Description |
-|----------------------------------------------|--------------------------------|-------------|
-| `Mini Project 1 (Visualization).ipynb`       | Data visualization             | Introduction to exploratory data analysis and plotting.
-| `Mini Project 2 – regression exercise.ipynb`  | Regression modeling            | Hands-on work with linear or polynomial regression methods.
-| `Mini Project 3.ipynb`                        | Supervised learning            | Implementation of classification/regression algorithms.
-| `Mini Project 4.ipynb`                        | Unsupervised learning          | Exploring clustering, dimensionality reduction, or other unsupervised techniques.
-| `Project1.ipynb`                              | Capstone-style project         | A more comprehensive application combining multiple ML techniques.
-| `Project2_Colab.ipynb`                        | Cloud-based workflow           | Replicable project setup in Google Colab for easy sharing and execution.
+The notebooks are structured as step-by-step exercises covering core ML topics:
 
-##  Getting Started
+- **Data Exploration & Visualization** – practicing with `matplotlib`, `pandas`, and `seaborn` to understand datasets.
+- **Regression Models** – linear and polynomial regression, training and evaluating models, working with error metrics.
+- **Classification** – experimenting with algorithms such as k-Nearest Neighbors, decision trees, or logistic regression.
+- **Unsupervised Learning** – clustering (e.g., k-means) and dimensionality reduction (PCA).
+- **Mini Projects** – small, guided exercises that apply multiple concepts together.
+- **Larger Exercises** – more open-ended notebooks where I combined several techniques into end-to-end workflows.
 
-### Prerequisites
+## 🚀 Getting Started
 
-You'll need:
+### Requirements
+You’ll need Python 3.x and Jupyter Notebook.  
+Core libraries used include:
 
-- Python 3.x
-- Jupyter Notebook or JupyterLab
-- Core libraries such as `numpy`, `pandas`, `matplotlib`, `scikit-learn`, and optionally `seaborn`.
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
 
-Install dependencies using:
+Install them with:
 
 ```bash
-pip install -r requirements.txt
+pip install numpy pandas matplotlib seaborn scikit-learn
